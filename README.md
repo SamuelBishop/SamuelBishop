@@ -19,3 +19,4 @@ These experiences have helped me build expertise in creating robust, scalable ap
 ## 📱 Get in Touch
 - [Email](samueljacobbg@gmail.com)
 - [GitHub](https://github.com/SamuelBishop)
+- [LinkedIn](https://www.linkedin.com/in/samuel-bishop-938212171/)
