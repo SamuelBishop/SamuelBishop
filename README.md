@@ -1,4 +1,4 @@
-# Welcome to my corner of GitHub! I’m Sam. 👨‍💻
+# 👨‍💻 Welcome to my corner of GitHub! I’m Sam 
 
 <div class="github-introduction">
 
@@ -16,6 +16,6 @@ These experiences have helped me build expertise in creating robust, scalable ap
   </p>
 </div>
 
-## Get in Touch
+## 📱 Get in Touch
 - [Email](samueljacobbg@gmail.com)
 - [GitHub](https://github.com/SamuelBishop)
