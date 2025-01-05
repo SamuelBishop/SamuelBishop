@@ -11,8 +11,8 @@ These experiences have helped me build expertise in creating robust, scalable ap
 
 <div class="badges-githubstats">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=samuelbishop&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="samuelbishop's Stats" height="165" width="300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbishop&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=samuelbishop&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="samuelbishop's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbishop&layout=compact&theme=tokyonight" height="165">
   </p>
 </div>
 
