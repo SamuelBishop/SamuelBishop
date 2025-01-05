@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my corner of GitHub! I’m Sam. 👨‍💻
 
-<!--
-**SamuelBishop/SamuelBishop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="github-introduction">
 
-Here are some ideas to get you started:
+I'm a **full-stack** developer at Microsoft, currently working at Microsoft on Dynamics 365 for Customer Service. My role involves designing and implementing scalable solutions to enhance customer experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These experiences have helped me build expertise in creating robust, scalable applications leveraging cutting-edge cloud infrastructure.
+</div>
+
+## 📈 My GitHub Stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=samuelbishop&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="samuelbishop's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbishop&theme=tokyonight&hide_border=true" alt="samuelbishop's Streak" height="165">
+  </p>
+</div>
+
+## Get in Touch
+- [Email](samueljacobbg@gmail.com)
+- [GitHub](https://github.com/SamuelBishop)
