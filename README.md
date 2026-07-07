@@ -56,12 +56,6 @@ coding agents and treat them as a real part of how I ship:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma" width="45" height="45" />
 </p>
 
-## Off the clock
-
-When I'm not in an editor I'm usually outside. Trail running and ultras, skiing,
-mountains, and a slow-moving camper and Tacoma build that is never quite finished.
-Home is my wife, our dog, and a to-do list of side projects I keep adding to.
-
 ## Say hi
 
 - Email: [samueljacobbg@gmail.com](mailto:samueljacobbg@gmail.com)
