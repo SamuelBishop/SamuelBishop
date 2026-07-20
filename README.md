@@ -1,7 +1,7 @@
 ```
     ____                 
    / __/__ ___ _         
-  _\ \/ _ `/  ' \        Sam Bishop
+  _\ \/ _ `/  ' \        Sam Gutknecht
  /___/\_,_/_/_/_/        full-stack dev @ Microsoft
 ```
 
