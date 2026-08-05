@@ -9,18 +9,11 @@ Hey, I'm Sam.
 
 I build full-stack software at Microsoft on Dynamics 365 Customer Service. Most of
 my work lives on the front end (React and TypeScript) with a good amount of backend
-and cloud work whenever the feature needs it. The through-line is complex support
-tooling that has to stay usable no matter how much is going on behind it.
-
-I care about the quiet parts of the job. Getting an interaction to feel right,
-finding a cleaner abstraction, and making sure things don't fall apart once real
-people start using them. These days a big chunk of my time goes into building with
-AI tooling as much as building features with it.
+and cloud work whenever the feature needs it.
 
 ## AI-assisted development
 
-This is where a lot of my head is right now. I work across the current crop of
-coding agents and treat them as a real part of how I ship:
+This is where my head is right now. I work across the frontier coding agents:
 
 ```
   codex  ~  claude  ~  github copilot
